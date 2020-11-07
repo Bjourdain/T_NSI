@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="588" height="180" view_box="0 0 588 180"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Thu, 08 Oct 2020 08:39:12</desc>
+
+<rect id="frame" x="0" y="0" width="588" height="180" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association FORME -->
+<line x1="52" y1="90" x2="163" y2="90" stroke="#000000" stroke-width="1.5"/>
+<text x="101" y="107.0" fill="#000000" font-family="Arial" font-size="12">1,N</text>
+<line x1="281" y1="90" x2="163" y2="90" stroke="#000000" stroke-width="1.5"/>
+<text x="204" y="107.0" fill="#000000" font-family="Arial" font-size="12">1,N</text>
+<g id="association-FORME">
+	<path d="M 184 62 a 14 14 90 0 1 14 14 V 89 h -70 V 76 a 14 14 90 0 1 14 -14" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+	<path d="M 198 89.0 v 15 a 14 14 90 0 1 -14 14 H 142 a 14 14 90 0 1 -14 -14 V 89.0 H 70" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+	<rect x="128" y="62" width="70" height="56" fill="none" rx="14" stroke="#000000" stroke-width="3"/>
+	<line x1="128" y1="89" x2="198" y2="89" stroke="#000000" stroke-width="1.5"/>
+	<text x="137" y="82.3" fill="#000000" font-family="Arial Black" font-size="13">FORME</text>
+</g>
+
+<!-- Association GERE -->
+<line x1="281" y1="90" x2="394" y2="90" stroke="#000000" stroke-width="1.5"/>
+<text x="337" y="107.0" fill="#000000" font-family="Arial" font-size="12">1,1</text>
+<line x1="518" y1="90" x2="394" y2="90" stroke="#000000" stroke-width="1.5"/>
+<text x="430" y="107.0" fill="#000000" font-family="Arial" font-size="12">0,N</text>
+<g id="association-GERE">
+	<path d="M 410 62 a 14 14 90 0 1 14 14 V 89 h -60 V 76 a 14 14 90 0 1 14 -14" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+	<path d="M 424 89.0 v 15 a 14 14 90 0 1 -14 14 H 378 a 14 14 90 0 1 -14 -14 V 89.0 H 60" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+	<rect x="364" y="62" width="60" height="56" fill="none" rx="14" stroke="#000000" stroke-width="3"/>
+	<line x1="364" y1="89" x2="424" y2="89" stroke="#000000" stroke-width="1.5"/>
+	<text x="373" y="82.3" fill="#000000" font-family="Arial Black" font-size="13">GERE</text>
+</g>
+
+<!-- Entity ENSEIGNANTS -->
+<g id="entity-ENSEIGNANTS">
+	<g id="frame-ENSEIGNANTS">
+		<rect x="457" y="27" width="122" height="28" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="457" y="55.0" width="122" height="98" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="457" y="27" width="122" height="126" fill="none" stroke="#000000" stroke-width="3"/>
+		<line x1="457" y1="55" x2="579" y2="55" stroke="#000000" stroke-width="1.5"/>
+	</g>
+	<text x="465" y="47.3" fill="#000000" font-family="Arial Black" font-size="13">ENSEIGNANTS</text>
+	<text x="465" y="71.2" fill="#000000" font-family="Arial" font-size="14">id_ens</text>
+	<line x1="465" y1="74" x2="509" y2="74" stroke="#000000" stroke-width="1.2"/>
+	<text x="465" y="89.2" fill="#000000" font-family="Arial" font-size="14">nom_ens</text>
+	<text x="465" y="107.2" fill="#000000" font-family="Arial" font-size="14">prenom_ens</text>
+	<text x="465" y="125.2" fill="#000000" font-family="Arial" font-size="14">spe1_ens</text>
+	<text x="465" y="143.2" fill="#000000" font-family="Arial" font-size="14">spe2_ens</text>
+</g>
+
+<!-- Entity ELEVES -->
+<g id="entity-ELEVES">
+	<g id="frame-ELEVES">
+		<rect x="9" y="9" width="86" height="28" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="9" y="37.0" width="86" height="134" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="9" y="9" width="86" height="162" fill="none" stroke="#000000" stroke-width="3"/>
+		<line x1="9" y1="37" x2="95" y2="37" stroke="#000000" stroke-width="1.5"/>
+	</g>
+	<text x="23" y="29.3" fill="#000000" font-family="Arial Black" font-size="13">ELEVES</text>
+	<text x="17" y="53.2" fill="#000000" font-family="Arial" font-size="14">Id_eleve</text>
+	<line x1="17" y1="56" x2="73" y2="56" stroke="#000000" stroke-width="1.2"/>
+	<text x="17" y="71.2" fill="#000000" font-family="Arial" font-size="14">nom_el</text>
+	<text x="17" y="89.2" fill="#000000" font-family="Arial" font-size="14">prenom_el</text>
+	<text x="17" y="107.2" fill="#000000" font-family="Arial" font-size="14">classe</text>
+	<text x="17" y="125.2" fill="#000000" font-family="Arial" font-size="14">spe1</text>
+	<text x="17" y="143.2" fill="#000000" font-family="Arial" font-size="14">spe2</text>
+	<text x="17" y="161.2" fill="#000000" font-family="Arial" font-size="14">spe3</text>
+</g>
+
+<!-- Entity GROUPES -->
+<g id="entity-GROUPES">
+	<g id="frame-GROUPES">
+		<rect x="231" y="45" width="100" height="28" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="231" y="73.0" width="100" height="62" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+		<rect x="231" y="45" width="100" height="90" fill="none" stroke="#000000" stroke-width="3"/>
+		<line x1="231" y1="73" x2="331" y2="73" stroke="#000000" stroke-width="1.5"/>
+	</g>
+	<text x="245" y="65.3" fill="#000000" font-family="Arial Black" font-size="13">GROUPES</text>
+	<text x="239" y="89.2" fill="#000000" font-family="Arial" font-size="14">id_groupe</text>
+	<line x1="239" y1="92" x2="305" y2="92" stroke="#000000" stroke-width="1.2"/>
+	<text x="239" y="107.2" fill="#000000" font-family="Arial" font-size="14">nom_groupe</text>
+	<text x="239" y="125.2" fill="#000000" font-family="Arial" font-size="14">nom_salle</text>
+</g>
+</svg>
